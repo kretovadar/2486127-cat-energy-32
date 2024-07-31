@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Дария Кретова](https://up.htmlacademy.ru/adaptive/32/user/2486127).
-* Наставник: `Оксана Вайнруб`.
+* Наставник: [Оксана Вайнруб](https://htmlacademy.ru/profile/id166797).
 
 ---
 
@@ -42,3 +42,4 @@ _`.github`, `.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `.lint
 
 [check-image]: https://github.com/htmlacademy-adaptive/2486127-cat-energy-32/workflows/Project%20check/badge.svg?branch=master
 [check-url]: https://github.com/htmlacademy-adaptive/2486127-cat-energy-32/actions
+[def]: https://htmlacademy.ru/profile/id166797
